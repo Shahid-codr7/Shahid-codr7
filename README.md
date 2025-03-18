@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=3700&lines=Code,+Debug,+Deploy+Repeat!;Hello+I'm+Shahid;Fork it,+fork,+star it,+own it!;" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&pause=1000&width=435&lines=Code.+Deploy.+Repeat.+;Coffee+in+one+hand%2C+code+in+the+other.;Keep+coding%2C+keep+evolving.+" alt="Typing SVG" /></a>
 </h1>
 <h3 align="center">AI/ML Enthusiast | DSA | Building scalable solutions.</h3>
 <hr/>
