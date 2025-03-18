@@ -57,7 +57,7 @@
 <!--END_SECTION:waka--> 
 
 
-<div align="center">
+<!--<div align="center">
   <h2>🐱‍👤 My Contributions 🐱‍👤</h2>
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Shahid-codr7/Shahid-codr7/blob/output/github-contribution-grid-snake-dark.svg" />
