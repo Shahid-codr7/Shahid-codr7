@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&pause=1000&width=435&lines=Code.+Debug.+Deploy.+;Hello%2C+I'm+Shahid;Wake%2C+code%2C+caffeinate%2C+repeat.;Keep+coding%2C+keep+evolving.+" alt="Typing SVG" /></a>
 </h1>
-<h3 align="center">AI/ML Enthusiast | DSA | Building scalable solutions.</h3>
+<h3 align="center">AI/ML Enthusiast | Coffee Coder | Terminal Explorer</h3>
 <hr/>
 
 
