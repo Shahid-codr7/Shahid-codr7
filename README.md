@@ -7,7 +7,7 @@
 
 ### About Me
  #### 🧠 **Passionate second-year techie | Pursuing a B.Tech in Computer Science & Engineering | Building, learning, and innovating one line of code at a time! 🚀💻.**
- #### 🌱 **Currently Learning**: Deep Learning
+ #### 🌱 **Currently Learning**: Deep Learning and Computer vision 
  #### ⚡ **Fun Fact**: I love to play Video Games & Solve DSA Problems
  
 
