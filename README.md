@@ -33,6 +33,6 @@
 
  <div align="center">
   <h2>🐱‍👤 My Contributions 🐱‍👤</h2>
-  <img alt="github-snake-dark" src="https://github.com/Shahid-codr7/Shahid-codr7/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Shahid-codr7/Shahid-codr7/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
