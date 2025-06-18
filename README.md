@@ -24,5 +24,13 @@
 [![My Other Development Tools](https://skillicons.dev/icons?i=git,github,linux)](https://skillicons.dev)
 
 
- 
+### Github Statistics 📈
+
 ![Shahid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahid-codr7&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahidFarhad&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShahidFarhad&theme=tokyonight)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShahidFarhad&theme=react-dark)
+
