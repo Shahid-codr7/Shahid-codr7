@@ -31,4 +31,14 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-codr7&layout=compact&theme=tokyonight)
 
 
+<!--Snake Graph contribution --> 
+<div align="center">
+  <h2>🐱‍👤 My Contributions 🐱‍👤</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Shahid-codr7/Shahid-codr7/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Shahid-codr7/Shahid-codr7/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/Shahid-codr7/Shahid-codr7/blob/output/github-contribution-grid-snake.gif" />
+  </picture>
+</div>
+
 
