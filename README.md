@@ -22,4 +22,7 @@
 
 ### Other Development Tools 🛠 
 [![My Other Development Tools](https://skillicons.dev/icons?i=git,github,linux)](https://skillicons.dev)
+
+
  
+![Shahid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahid-codr7&show_icons=true&theme=radical)
