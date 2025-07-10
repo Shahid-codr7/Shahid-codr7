@@ -25,9 +25,9 @@
  <br/>
  <h2 align="center"> Github Statistics 📈</h2>
 
-![Shahid-codr7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahid-codr7&show_icons=true&theme=default)
+ ![Shahid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahid-codr7&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-codr7&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-codr7&layout=compact&theme=tokyonight)
 
 
  <div align="center">
