@@ -27,7 +27,7 @@
 
  ![Shahid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahid-codr7&show_icons=true&theme=radical)
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-codr7&layout=compact&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-codr7&layout=compact&theme=tokyonight) 
 
 
  <div align="center">
