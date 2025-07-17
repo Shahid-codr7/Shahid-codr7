@@ -9,7 +9,7 @@
   #### 🌱 **Currently Learning**: Deep Learning and Computer vision 
   #### ⚡ **Fun Fact**: I love to play Video Games & Solve DSA Problems
 
-  Connect with me on [LinkedIn](https://www.linkedin.com/in/shahid-abdul-farhad) for professional updates and networking!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shahid-abdul-farhad)
  <br/>
  <hr/>
 
