@@ -8,8 +8,8 @@
   #### 🧠 **Passionate second-year techie | Pursuing a B.Tech in Computer Science & Engineering | Building, learning, and innovating one line of code at a time! 🚀💻.**
   #### 🌱 **Currently Learning**: Deep Learning and Computer vision 
   #### ⚡ **Fun Fact**: I love to play Video Games & Solve DSA Problems
-  
 
+  Connect with me on [LinkedIn](https://www.linkedin.com/in/shahid-abdul-farhad) for professional updates and networking!
  <br/>
  <hr/>
 
