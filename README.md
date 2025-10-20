@@ -14,7 +14,7 @@
  <hr/>
 
  ### Languages 🛠 
- [![My Programming Languages](https://skillicons.dev/icons?i=java,python,cpp,html,css,bash)](https://skillicons.dev)
+ [![My Programming Languages](https://skillicons.dev/icons?i=java,python,cpp,html,css,bash,fastapi)](https://skillicons.dev)
 
  ### IDEs 🛠 
  [![My IDEs](https://skillicons.dev/icons?i=vscode,eclipse,idea,pycharm)](https://skillicons.dev)
