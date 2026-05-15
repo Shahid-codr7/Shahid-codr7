@@ -32,6 +32,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-codr7&layout=compact&theme=tokyonight)
 
 
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahid-codr7&theme=radical)](https://github.com/Shahid-codr7)
+
+
  <div align="center">
   <h2>🐱‍👤 My Contributions 🐱‍👤</h2>
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Shahid-codr7/Shahid-codr7/output/github-contribution-grid-snake-dark.svg" />
