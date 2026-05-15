@@ -23,11 +23,13 @@
  [![My Other Development Tools](https://skillicons.dev/icons?i=git,github,linux,fastapi)](https://skillicons.dev)
 
  <br/>
- <h2 align="center"> Github Statistics 📈</h2>
+<h2 align="center"> Github Statistics 📈</h2>
 
- ![Shahid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahid-codr7&show_icons=true&theme=radical)
+<!-- GitHub Streak Stats (very reliable) -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Shahid-codr7&theme=radical)](https://git.io/streak-stats)
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-codr7&layout=compact&theme=tokyonight) 
+<!-- Top Languages via a different stable API -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-codr7&layout=compact&theme=tokyonight)
 
 
  <div align="center">
