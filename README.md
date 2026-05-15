@@ -29,7 +29,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Shahid-codr7&theme=radical)](https://git.io/streak-stats)
 
 <!-- Top Languages via a different stable API -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-codr7&layout=compact&theme=tokyonight)
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-codr7&layout=compact&theme=tokyonight](https://my-github-statistics-blond.vercel.app/api/top-langs?username=Shahid-codr7))
 
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahid-codr7&theme=radical)](https://github.com/Shahid-codr7)
