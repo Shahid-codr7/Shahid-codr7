@@ -27,13 +27,13 @@
 <br/>
 <h2 align="center"> Github Statistics 📈</h2>
 
-![Shahid's GitHub Stats](https://my-github-statistics-blond.vercel.app/api?username=Shahid-codr7&show_icons=true&theme=radical)
-
-![Top Langs](https://my-github-statistics-blond.vercel.app/api/top-langs/?username=Shahid-codr7&layout=compact&theme=tokyonight&langs_count=10&count_private=true)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahid-codr7&theme=radical)](https://github.com/Shahid-codr7)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Shahid-codr7&theme=radical)](https://git.io/streak-stats)
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahid-codr7&theme=radical)](https://github.com/Shahid-codr7)
+![Top Langs](https://my-github-statistics-blond.vercel.app/api/top-langs/?username=Shahid-codr7&layout=compact&theme=tokyonight&langs_count=10&count_private=true)
+
+
 
 <div align="center">
   <h2>🐱‍👤 My Contributions 🐱‍👤</h2>
