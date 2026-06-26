@@ -6,7 +6,7 @@
 <hr />
 
 ### About Me
-#### 🧠 Passionate pre-final year techie | Pursuing a B.Tech in Computer Science & Engineering | Building, learning, and innovating one line of code at a time! 🚀💻
+#### 🧠 Passionate final year techie | Pursuing a B.Tech in Computer Science & Engineering | Building, learning, and innovating one line of code at a time! 🚀💻
 #### 🌱 **Currently Learning**: Generative AI
 #### ⚡ **Fun Fact**: I love to play Video Games & Solve DSA Problems
 
