@@ -7,7 +7,7 @@
 
 ### About Me
 #### 🧠 Passionate final year techie | Pursuing a B.Tech in Computer Science & Engineering | Building, learning, and innovating one line of code at a time! 🚀💻
-#### 🌱 **Currently Learning**: Generative AI
+#### 🌱 **Currently Learning**: Agentic AI
 #### ⚡ **Fun Fact**: I love to play Video Games & Solve DSA Problems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shahid-abdul-farhad)
