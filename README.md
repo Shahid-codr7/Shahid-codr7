@@ -10,6 +10,10 @@
 #### 🌱 **Currently Learning**: Agentic AI
 #### ⚡ **Fun Fact**: I love to play Video Games & Solve DSA Problems
 
+### Experience 💼
+#### 🏢 **GPT Intern @ ADP** | 3 Months
+#### ✅ Successfully completed a 3-month internship at **ADP**, working on **Generative AI** and **Retrieval-Augmented Generation (RAG)**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shahid-abdul-farhad)
 
 <br/>
