@@ -28,7 +28,7 @@
 ### Development Tools and Frameworks 🛠
 ![Langgraph](assets/icons/langgraph.svg) 
 ![Langchain](assets/icons/langchain.svg)
-[![My Other Development Tools](https://skillicons.dev/icons?i=fastapi,sklearn,anaconda,postgres,mysql,sqlite,p5js,opencv,git,github,linux,opencv)](https://skillicons.dev)
+[![My Other Development Tools](https://skillicons.dev/icons?i=fastapi,tensorflow,sklearn,anaconda,postgres,mysql,sqlite,p5js,opencv,git,github,linux,opencv)](https://skillicons.dev)
 
 <br/>
 <h2 align="center"> Github Statistics 📈</h2>
