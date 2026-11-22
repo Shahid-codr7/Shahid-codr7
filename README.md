@@ -25,8 +25,11 @@
 ### IDEs 🛠
 [![My IDEs](https://skillicons.dev/icons?i=vscode,eclipse,idea,pycharm)](https://skillicons.dev)
 
+### Frameworks 🛠
+[![My Other Development Tools](https://skillicons.dev/icons?i=fastapi,sklearn,anaconda,postgres,mysql,sqlite,p5js,opencv,langchain)](https://skillicons.dev)
+
 ### Development Tools 🛠
-[![My Other Development Tools](https://skillicons.dev/icons?i=git,github,linux,fastapi,sklearn,anaconda,ubuntu,postgres,mysql,sqlite,p5js,opencv,docker)](https://skillicons.dev)
+[![My Other Development Tools](https://skillicons.dev/icons?i=git,github,linux,fastapi,ubuntu,postgres,mysql,sqlite,p5js,opencv,docker)](https://skillicons.dev)
 
 <br/>
 <h2 align="center"> Github Statistics 📈</h2>
