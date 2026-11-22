@@ -26,7 +26,8 @@
 [![My IDEs](https://skillicons.dev/icons?i=vscode,eclipse,idea,pycharm)](https://skillicons.dev)
 
 ### Development Tools and Frameworks 🛠
-[Langgraph](assets/icons/langgraph.svg) ![Langchain](assets/icons/langchain.svg)
+![Langgraph](assets/icons/langgraph.svg) 
+![Langchain](assets/icons/langchain.svg)
 [![My Other Development Tools](https://skillicons.dev/icons?i=fastapi,sklearn,anaconda,postgres,mysql,sqlite,p5js,opencv,git,github,linux,opencv)](https://skillicons.dev)
 
 <br/>
